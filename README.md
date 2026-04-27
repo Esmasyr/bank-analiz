@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -56,3 +57,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# bank-analiz
+A financial analytics platform that processes transaction data, detects suspicious activities (fraud), performs risk and behavior analysis, and provides insights via a chatbot. Developed using Laravel, PHP, and MySQL.
+>>>>>>> dbd93ad3ee5714edecc7337d0dc16d364194503c
